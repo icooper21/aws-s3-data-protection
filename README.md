@@ -14,8 +14,9 @@ This project demonstrates secure data storage in AWS by configuring S3 encryptio
 - Reinforce security using block public access settings
 
 ## 🛠️ Technologies Used
-- :contentReference[oaicite:0]{index=0}
-- :contentReference[oaicite:1]{index=1} (conceptual)
+- Amazon S3 (secure object storage and permission management)
+- AWS Key Management Service (KMS) (encryption at rest concept)
+
 
 
 ## 🚀 1. Secure Bucket Configuration
