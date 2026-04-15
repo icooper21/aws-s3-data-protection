@@ -29,11 +29,14 @@ This project demonstrates secure data storage in AWS by configuring S3 encryptio
 - Uploaded file and configured it to be publicly accessible
 - Created intentional data exposure scenario
 
-![Public File Access](File-Access.png)
 
 ## 🌐 3. Exposure Validation
 - Accessed object via public URL in browser
 - Confirmed data was publicly accessible without authentication
+
+![Public File Access](File-Access.png)
+
+
 
 ## 🔐 4. Remediation: Secure Configuration Restored
 - Removed public read permissions from object
