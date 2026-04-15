@@ -29,7 +29,7 @@ This project demonstrates secure data storage in AWS by configuring S3 encryptio
 - Uploaded file and configured it to be publicly accessible
 - Created intentional data exposure scenario
 
-![Public File Access](file-access.png)
+![Public File Access](File-Access.png)
 
 ## 🌐 3. Exposure Validation
 - Accessed object via public URL in browser
@@ -40,9 +40,9 @@ This project demonstrates secure data storage in AWS by configuring S3 encryptio
 - Re-enabled bucket-level block public access
 - Verified only account owner retains access
 
-![File Secured](file-secured.png)
+![File Secured](File-Secured.png)
 
-![Block Public Access](images/block-public-access.png)
+![Block Public Access](Block-Public-Access.png)
 
 
 ## ⚠️ Security Analysis
